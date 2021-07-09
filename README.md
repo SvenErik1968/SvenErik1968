@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Sven-Erik+Andersen)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=svenerik1968&style=plastic)
 
